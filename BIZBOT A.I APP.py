@@ -47,16 +47,8 @@ def get_response():
         
     elif user_input == "you are fool":
         bad_words()
-    elif user_input == "fuck you":
-        bad_words()
-    elif user_input == "hey bastard":
-        bad_words()
-    elif user_input == "bastard":
-        bad_words()
-    elif user_input == "bhaiya is a poti":
-        bad_words()
-    elif user_input == "you are poti":
-        bad_words()
+    elif user_input == "you are a failure":
+       bad_words()
     
     
     
